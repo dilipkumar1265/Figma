@@ -31,7 +31,34 @@ Publish the website in the given URL.
 ## DESIGN TOOL:
 Figma
 
+## code:
+```
+/* Home page */
+position: relative;
+width: 710px;
+height: 1407px;
+background: #EF1111;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+/* LOGIN PAGE */
+position: relative;
+width: 705px;
+height: 1407px;
+background: #EBEF11;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+/* Android Small - 1 */
+position: relative;
+width: 670px;
+height: 1407px;
+background: #0DBE14;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+```
 ## OUTPUT:
+![output](./out1.png)
+![output](./out2.png)
+![output](./out3.png)
 
 
 ## RESULT:
